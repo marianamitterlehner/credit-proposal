@@ -80,8 +80,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGEP93SRjmvmA/profile-displayphoto-shrink_100_100/0/1616796316494?e=1626912000&v=beta&t=RdX_TfGm1nAvlFHC3S12zAG6ru0R-wOZV9_OFq5B_qE" width="80px;" alt="Mariana"/>
- <br />
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGEP93SRjmvmA/profile-displayphoto-shrink_100_100/0/1616796316494?e=1626912000&v=beta&t=RdX_TfGm1nAvlFHC3S12zAG6ru0R-wOZV9_OFq5B_qE" width="80px;" padding="10px" alt="Mariana"/>
  <sub><b>Mariana Mitterlehner</b></sub>
 
 
