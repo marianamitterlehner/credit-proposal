@@ -71,7 +71,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Material de apoio
 
-- [Material Design](https://material.io/)
 - [Next.js](https://nextjs.org)
 - [Sass](https://sass-lang.com/)
 - [JSON-Server](https://www.npmjs.com/package/json-server)
@@ -79,8 +78,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 ---
-
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGEP93SRjmvmA/profile-displayphoto-shrink_100_100/0/1616796316494?e=1626912000&v=beta&t=RdX_TfGm1nAvlFHC3S12zAG6ru0R-wOZV9_OFq5B_qE" width="80px;" padding="10px" alt="Mariana"/>
-
 Made with ♥ by Mariana Mitterlehner :wave: [Get in my Linkedin!](https://www.linkedin.com/in/mariana-miguel-95268713b/)
 
